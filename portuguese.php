@@ -36,5 +36,5 @@ $_lang["You've been successfully registered."] = "Registo efetuado com sucesso."
 $_lang["Unknown error"] = "Erro desconhecido";
 $_lang["Username, mail or steamid is already taken."] = "Nome de Utilizador, mail ou steamid já está escolhido.";
 $_lang["E-Mail"] = "E-Mail";
-$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "Para criar uma conta ETS2MP tens de ter ETS2 na tua conta steam. Se o tens na tua livraria Steam, verifica se o teu perfil está público. Se é privado, coloca-o público e clica em";
+$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "Para criar uma conta ETS2MP tens de ter ETS2 associado à tua conta steam. Se o tens na tua livraria Steam, verifica se o teu perfil está público. Se é privado, coloca-o público e clica em";
 $_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "Para te registares tens de iniciar sessão na tua conta steam. Pressiona o botão abaixo para seres redirecionado para o site de autênticação Steam.";
